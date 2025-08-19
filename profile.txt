@@ -1,2 +1,3 @@
 Name: Febin. C.F
 City: Nagercoil, Tamilnadu
+Skills: Python, Django, SQL, React
